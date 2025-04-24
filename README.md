@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! I'm Jeff!
+- I'm currently learning Python and SQL!
+- I feel like I'm getting the hang of it, but my skills so far lean much heavier into dreaming an end state and the bumps are translating that into code.
+- I'm always open to help, because I try really hard to solve problems myself before reaching out - sometimes too much ;)
+- Reach my on my email primarily!
+- Fun fact: I'm actually a published audiobook narrator
 
 <!--
 **TheJeff08/TheJeff08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
